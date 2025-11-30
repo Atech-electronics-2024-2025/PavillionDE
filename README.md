@@ -1,4 +1,6 @@
 # PavillionDE
+START ON 28 OF NOVEMEBRR:
+
 Linux's first desktop enviroment (DE) made out of Python.
 
 ====== HOW TO  INSTALL ======
@@ -18,3 +20,7 @@ Linux's first desktop enviroment (DE) made out of Python.
 The Pavillion Desktop Enviroment is currently in beta, meaning it is not finished yet. The only app you can run is the terminal,
 but the rest don't work right now. Also, the mouse cursor is invisible but will soon be visible. You can still run other apps
 using the terminal.
+
+===UPDATE ON THE DE: 30 NOV 2025====
+
+The pav.py file now detects every single app it can find, and also has the functions for shutting down and restartring. All apps now run on openbox.
